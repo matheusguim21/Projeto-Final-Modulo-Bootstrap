@@ -1,0 +1,220 @@
+@import '../common/commonElements.scss';
+@import '../common/variables.scss';
+
+
+
+
+.container00{
+  &.container08{
+    background-image: url(../images/humanFlight/01.jpg);
+    
+  }
+  &.container09{
+    background-image: url(../images/humanFlight/02.jpg);
+  }
+  &.container10{
+    background-image: url(../images/humanFlight/03.jpg);
+  }
+  &.container11{
+    background-image: url(../images/humanFlight/04.jpg);
+    
+  }
+  &.container12{
+    background-image: url(../../images/humanFlight/05.jpg);
+  }
+  
+  
+}
+
+.containerSpaceTitle{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 60px;
+
+  .spaceTitle{
+    font-size: 7rem;
+  }
+
+}
+
+.paragraph09{
+  width: 60%;
+  font-size: 1.3rem;
+  text-align: center;
+  padding: 50px 0 30px 0;
+  height: 30vh;
+}
+
+.rightDescription{
+
+  margin-left: 55%;
+  padding-top: 15%;
+
+  #button{
+    border:1px solid white;
+  }
+
+}
+.leftDescription{
+
+  margin-left: 5%;
+  padding-top: 15%;
+  #button{
+    border:1px solid white;
+  }
+}
+
+
+.titleHuman{
+  margin-top: 1%;
+  font-size: 4rem;
+  font-weight: 600;
+}
+
+
+
+
+
+.container10{
+  background-image: url(../images/humanFlight/03.jpg);
+
+}
+
+.downloadDescription{
+  width: 90%;
+}
+
+@media (max-width:770px){
+  
+  
+  .containerSpaceTitle{
+    
+    padding-top: 25%;
+    margin-bottom: 15%;
+    .spaceTitle{
+      font-size: 5rem;
+    }
+    img{
+      width: 800px;
+    };
+  
+  }
+  .arrowDown1{
+    margin-top: 20%;
+  }
+  
+  .paragraph09{
+    font-size: 1rem;
+  }
+  .titleHuman{
+    font-size: 3rem;
+  }
+
+  .rightDescription{
+    width: 300px;
+    padding-top: 50%;
+  }
+  .leftDescription{
+    width: 300px;
+    padding-top: 50%;
+  }
+}
+
+@media(max-width:600px){
+  .containerSpaceTitle{
+    
+    width: 400px;
+    .spaceTitle{
+      font-size: 3rem;
+    }
+    .spaceShortTitle{
+      font-size: 0.9rem;
+    }
+    img{
+      width:500px;
+    };
+  
+  }
+  .arrowDown1{
+    margin-top: 20%;
+  }
+  
+  .paragraph09{
+    font-size: 0.7rem;
+    width: 90%;
+  }
+  .titleHuman{
+    font-size: 2rem;
+  }
+
+  .rightDescription{
+    width: 200px;
+
+  }
+  .leftDescription{
+    width: 200px;
+    padding-top: 50%;
+  }
+
+  
+}
+@media(max-width:400px){
+  
+  .rightDescription, .leftDescription{
+    width: 280px;
+    padding-top: 80%;
+    margin: auto;
+    
+   
+  }
+  
+  
+  
+  .titleHuman{
+    font-size: 1.8rem;
+  }
+  .subTitleHuman{
+    font-size: 0.9rem;
+  }
+
+}
+@media(max-width:350px){
+  .containerSpaceTitle{
+    
+    width: 280px;
+
+    padding-top: 70%;
+    .spaceTitle{
+      font-size: 2.5rem;
+    }
+    .spaceShortTitle{
+      font-size: 0.95rem;
+    }
+    img{
+      width:500px;
+    };
+  
+  }
+
+
+  .rightDescription, .leftDescription{
+    width: 230px;
+    padding-top: 80%;
+    margin: auto;
+    
+    
+  }
+  
+  
+  
+  .titleHuman{
+    font-size: 1.5rem;
+  }
+  .subTitleHuman{
+    font-size: 0.8rem;
+  }
+
+}

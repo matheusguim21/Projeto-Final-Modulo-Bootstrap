@@ -1,0 +1,41 @@
+@import '../common/commonElements.scss';
+@import '../common/variables.scss';
+
+.container00{
+  
+  &.container01{
+    background-image: url(../images/home/01.jpg);
+    
+  }
+  &.container02{
+    background-image: url(../images/home/02.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+  }
+  &.container03{
+    background-image: url(../images/home/03.gif);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  &.container04{
+    background-image: url(../images/home/04.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+}
+
+.shortTitle{
+  width: 450px;
+}
+.mediumTitle{
+  width: 500px;
+}
+
+
+
+

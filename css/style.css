@@ -1,0 +1,791 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+}
+
+.header {
+  padding-top: 20px;
+  font-weight: bold;
+  font-size: 0.8rem;
+}
+
+.logo-nav-bar {
+  width: 240px;
+  margin-left: -10px;
+  margin-right: 20px;
+}
+
+.nav-link {
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.arrowDown {
+  width: 15%;
+  height: auto;
+  margin-bottom: -130px;
+}
+
+.arrowUp {
+  width: 70px;
+  height: 70px;
+  margin-bottom: -130px;
+}
+
+.container00 {
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.titlePadding {
+  margin-top: 14%;
+}
+
+#button {
+  padding: 1rem 2.2rem 1rem 2.2rem;
+  border: 2px solid #fff;
+}
+
+.footer {
+  background-color: #000;
+  color: white;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+}
+.footer span {
+  color: #555252;
+}
+.footer a {
+  text-decoration: none;
+  color: white;
+}
+.footer a:hover {
+  color: #b9b9b9;
+}
+
+@media (max-width: 405px) {
+  .logo-nav-bar {
+    width: 200px;
+    margin-top: 15px;
+  }
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+}
+
+.header {
+  padding-top: 20px;
+  font-weight: bold;
+  font-size: 0.8rem;
+}
+
+.logo-nav-bar {
+  width: 240px;
+  margin-left: -10px;
+  margin-right: 20px;
+}
+
+.nav-link {
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.arrowDown {
+  width: 15%;
+  height: auto;
+  margin-bottom: -130px;
+}
+
+.arrowUp {
+  width: 70px;
+  height: 70px;
+  margin-bottom: -130px;
+}
+
+.container00 {
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.titlePadding {
+  margin-top: 14%;
+}
+
+#button {
+  padding: 1rem 2.2rem 1rem 2.2rem;
+  border: 2px solid #fff;
+}
+
+.footer {
+  background-color: #000;
+  color: white;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+}
+.footer span {
+  color: #555252;
+}
+.footer a {
+  text-decoration: none;
+  color: white;
+}
+.footer a:hover {
+  color: #b9b9b9;
+}
+
+@media (max-width: 405px) {
+  .logo-nav-bar {
+    width: 200px;
+    margin-top: 15px;
+  }
+}
+.container00.container01 {
+  background-image: url(../images/home/01.jpg);
+}
+.container00.container02 {
+  background-image: url(../images/home/02.jpg);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.container00.container03 {
+  background-image: url(../images/home/03.gif);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.container00.container04 {
+  background-image: url(../images/home/04.jpg);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.shortTitle {
+  width: 450px;
+}
+
+.mediumTitle {
+  width: 500px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+}
+
+.header {
+  padding-top: 20px;
+  font-weight: bold;
+  font-size: 0.8rem;
+}
+
+.logo-nav-bar {
+  width: 240px;
+  margin-left: -10px;
+  margin-right: 20px;
+}
+
+.nav-link {
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.arrowDown {
+  width: 15%;
+  height: auto;
+  margin-bottom: -130px;
+}
+
+.arrowUp {
+  width: 70px;
+  height: 70px;
+  margin-bottom: -130px;
+}
+
+.container00 {
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.titlePadding {
+  margin-top: 14%;
+}
+
+#button {
+  padding: 1rem 2.2rem 1rem 2.2rem;
+  border: 2px solid #fff;
+}
+
+.footer {
+  background-color: #000;
+  color: white;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+}
+.footer span {
+  color: #555252;
+}
+.footer a {
+  text-decoration: none;
+  color: white;
+}
+.footer a:hover {
+  color: #b9b9b9;
+}
+
+@media (max-width: 405px) {
+  .logo-nav-bar {
+    width: 200px;
+    margin-top: 15px;
+  }
+}
+.container05 {
+  background-image: url(../images/falcon9/01.jpg);
+}
+
+.container06 {
+  background-image: url(../images/falcon9/02.jpg);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container07 {
+  background-image: url(../images/falcon9/08.jpg);
+}
+
+.titleFalcon {
+  font-size: 5.5rem;
+  font-family: "Rubik", sans-serif;
+  font-weight: 550;
+}
+
+* {
+  color: #fff;
+}
+
+.numbers {
+  background-color: #000;
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.titleContent {
+  margin-top: 10%;
+}
+.titleContent span {
+  color: #ff0043;
+}
+
+.titleNumb {
+  font-size: 6rem;
+}
+
+.subTitleNumb {
+  font-size: 1.3rem;
+}
+
+.falconDescription {
+  width: 630px;
+  font-size: 1.35rem;
+  line-height: 3.3rem;
+}
+
+.containerCarrossel {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.carrossel {
+  width: 100%;
+  padding: 10px;
+}
+
+#overViewPosition {
+  width: 100%;
+  margin-left: 10%;
+  padding-top: 15%;
+}
+
+#overViewPosition1 {
+  width: 100%;
+  margin-left: 6%;
+  padding-top: 10%;
+}
+
+.titleOverView {
+  font-size: 1.8rem;
+  font-weight: 500;
+}
+
+.textOverView {
+  width: 500px;
+}
+
+.tabela {
+  width: 500px;
+  margin-bottom: -100px;
+}
+
+.carrossel-item {
+  background-position: center;
+  background-size: contain;
+  width: 100%;
+}
+
+.last-carousel {
+  background-position: center;
+  background-size: cover;
+}
+.last-carousel img {
+  height: 100vh;
+  width: 100%;
+}
+
+.carousel01 {
+  background-image: url(../images/falcon9/03.jpg);
+}
+
+.carousel02 {
+  background-image: url(../images/falcon9/04.jpg);
+}
+
+.carousel03 {
+  background-image: url(../images/falcon9/05.jpg);
+}
+
+.carousel04 {
+  background-image: url(../images/falcon9/06.jpg);
+}
+
+.carousel05 {
+  background-image: url(../images/falcon9/07.jpg);
+}
+
+.blacktext {
+  background-color: #000;
+  padding: 0 50px 0 50px;
+  width: fit-content;
+  margin: 0 auto 30px auto;
+}
+
+#width-buttons {
+  width: 70px;
+  height: 4px;
+  border-radius: 9px;
+  margin: 0 10px 10px 10px;
+}
+
+.downloadDescription {
+  width: 100%;
+  height: 85vh;
+  padding-top: 20%;
+}
+.downloadDescription button {
+  border: 2px solid #fff;
+  margin: 5px;
+}
+
+.linkOBC {
+  color: #b9b9b9;
+  text-decoration: none;
+  cursor: pointer;
+}
+.linkOBC:hover {
+  color: #ff3e88;
+}
+
+@media (max-width: 1024px) {
+  .downloadDescription {
+    width: 100%;
+    padding-top: 400px;
+  }
+}
+@media (max-width: 850px) {
+  .last-carousel img {
+    width: 100%;
+    height: auto;
+    margin-top: 50%;
+  }
+  .last-carousel #indicators {
+    margin-bottom: 50%;
+  }
+  .titleNumb {
+    font-size: 5rem;
+  }
+  .subTitleNumb {
+    font-size: 1rem;
+  }
+  #overViewPosition {
+    width: 90%;
+    margin: auto;
+    padding-top: 300px;
+  }
+  #overViewPosition .subTitleOverView, #overViewPosition .titleOverView, #overViewPosition .textOverView {
+    text-align: center;
+    margin: 10px auto 0 auto;
+  }
+  #overViewPosition .textOverView {
+    line-height: 2rem;
+    width: auto;
+  }
+  #overViewPosition .tabela {
+    margin: auto;
+  }
+  #overViewPosition1 {
+    width: 100%;
+    margin-left: 7%;
+    padding-top: 35%;
+  }
+  #overViewPosition1 .textOverView {
+    width: 50%;
+  }
+  #overViewPosition1 .tabela {
+    width: 50%;
+  }
+  .downloadDescription {
+    width: 100%;
+    height: 85vh;
+    padding-top: 400px;
+  }
+  .falconDescription {
+    width: auto;
+  }
+}
+@media (max-width: 800px) {
+  .subTitleFalcon {
+    width: 400px;
+    margin: auto;
+    font-size: 1.5rem;
+  }
+}
+@media (max-width: 600px) {
+  .downloadDescription p {
+    width: 300px;
+    margin: 0 auto 50px auto;
+  }
+  .downloadDescription button {
+    display: block;
+    margin: 0 auto 20px auto;
+  }
+  #overViewPosition {
+    width: auto;
+    padding-top: 300px;
+    margin: auto;
+  }
+  .tabela {
+    width: 100%;
+  }
+  .last-carousel img {
+    width: 100%;
+    height: auto;
+    margin-top: 65%;
+  }
+}
+@media (max-width: 575px) {
+  .numbers {
+    padding-top: 60px;
+  }
+}
+@media (max-width: 405px) {
+  .titleContent {
+    width: auto;
+  }
+  .titleContent .titleFalcon {
+    width: auto;
+  }
+  .titleContent .subTitleFalcon {
+    width: auto;
+  }
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+}
+
+.header {
+  padding-top: 20px;
+  font-weight: bold;
+  font-size: 0.8rem;
+}
+
+.logo-nav-bar {
+  width: 240px;
+  margin-left: -10px;
+  margin-right: 20px;
+}
+
+.nav-link {
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.arrowDown {
+  width: 15%;
+  height: auto;
+  margin-bottom: -130px;
+}
+
+.arrowUp {
+  width: 70px;
+  height: 70px;
+  margin-bottom: -130px;
+}
+
+.container00 {
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.titlePadding {
+  margin-top: 14%;
+}
+
+#button {
+  padding: 1rem 2.2rem 1rem 2.2rem;
+  border: 2px solid #fff;
+}
+
+.footer {
+  background-color: #000;
+  color: white;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+}
+.footer span {
+  color: #555252;
+}
+.footer a {
+  text-decoration: none;
+  color: white;
+}
+.footer a:hover {
+  color: #b9b9b9;
+}
+
+@media (max-width: 405px) {
+  .logo-nav-bar {
+    width: 200px;
+    margin-top: 15px;
+  }
+}
+.container00.container08 {
+  background-image: url(../images/humanFlight/01.jpg);
+}
+.container00.container09 {
+  background-image: url(../images/humanFlight/02.jpg);
+}
+.container00.container10 {
+  background-image: url(../images/humanFlight/03.jpg);
+}
+.container00.container11 {
+  background-image: url(../images/humanFlight/04.jpg);
+}
+.container00.container12 {
+  background-image: url(../../images/humanFlight/05.jpg);
+}
+
+.containerSpaceTitle {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 60px;
+}
+.containerSpaceTitle .spaceTitle {
+  font-size: 7rem;
+}
+
+.paragraph09 {
+  width: 60%;
+  font-size: 1.3rem;
+  text-align: center;
+  padding: 50px 0 30px 0;
+  height: 30vh;
+}
+
+.rightDescription {
+  margin-left: 55%;
+  padding-top: 15%;
+}
+.rightDescription #button {
+  border: 1px solid white;
+}
+
+.leftDescription {
+  margin-left: 5%;
+  padding-top: 15%;
+}
+.leftDescription #button {
+  border: 1px solid white;
+}
+
+.titleHuman {
+  margin-top: 1%;
+  font-size: 4rem;
+  font-weight: 600;
+}
+
+.container10 {
+  background-image: url(../images/humanFlight/03.jpg);
+}
+
+.downloadDescription {
+  width: 90%;
+}
+
+@media (max-width: 770px) {
+  .containerSpaceTitle {
+    padding-top: 25%;
+    margin-bottom: 15%;
+  }
+  .containerSpaceTitle .spaceTitle {
+    font-size: 5rem;
+  }
+  .containerSpaceTitle img {
+    width: 800px;
+  }
+  .arrowDown1 {
+    margin-top: 20%;
+  }
+  .paragraph09 {
+    font-size: 1rem;
+  }
+  .titleHuman {
+    font-size: 3rem;
+  }
+  .rightDescription {
+    width: 300px;
+    padding-top: 50%;
+  }
+  .leftDescription {
+    width: 300px;
+    padding-top: 50%;
+  }
+}
+@media (max-width: 600px) {
+  .containerSpaceTitle {
+    width: 400px;
+  }
+  .containerSpaceTitle .spaceTitle {
+    font-size: 3rem;
+  }
+  .containerSpaceTitle .spaceShortTitle {
+    font-size: 0.9rem;
+  }
+  .containerSpaceTitle img {
+    width: 500px;
+  }
+  .arrowDown1 {
+    margin-top: 20%;
+  }
+  .paragraph09 {
+    font-size: 0.7rem;
+    width: 90%;
+  }
+  .titleHuman {
+    font-size: 2rem;
+  }
+  .rightDescription {
+    width: 200px;
+  }
+  .leftDescription {
+    width: 200px;
+    padding-top: 50%;
+  }
+}
+@media (max-width: 400px) {
+  .rightDescription, .leftDescription {
+    width: 280px;
+    padding-top: 80%;
+    margin: auto;
+  }
+  .titleHuman {
+    font-size: 1.8rem;
+  }
+  .subTitleHuman {
+    font-size: 0.9rem;
+  }
+}
+@media (max-width: 350px) {
+  .containerSpaceTitle {
+    width: 280px;
+    padding-top: 70%;
+  }
+  .containerSpaceTitle .spaceTitle {
+    font-size: 2.5rem;
+  }
+  .containerSpaceTitle .spaceShortTitle {
+    font-size: 0.95rem;
+  }
+  .containerSpaceTitle img {
+    width: 500px;
+  }
+  .rightDescription, .leftDescription {
+    width: 230px;
+    padding-top: 80%;
+    margin: auto;
+  }
+  .titleHuman {
+    font-size: 1.5rem;
+  }
+  .subTitleHuman {
+    font-size: 0.8rem;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
